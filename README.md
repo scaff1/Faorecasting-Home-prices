@@ -1,1 +1,3 @@
-# Faorecasting-Home-prices
+# Faorecasting Home Prices
+
+In this project, I forecasted home prices using R-Studio as part of a collaborative team effort. We applied both SARIMA (Seasonal AutoRegressive Integrated Moving Average) and Multivariate models to analyze and predict home price trends. SARIMA was particularly useful in capturing and forecasting the seasonal fluctuations and trends in the data. In the Multivariate model, we incorporated two key independent variables: the Consumer Price Index (CPI) and the Producer Price Index for Lumber. The CPI was used to account for general inflation and its impact on purchasing power, while the Producer Price Index for Lumber provided insights into the cost of raw materials, which directly affects construction costs and, consequently, home prices. By including these variables, we were able to enhance the model's ability to forecast home prices with a greater understanding of the underlying economic factors.
